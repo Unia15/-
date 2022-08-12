@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\bin\Debug\net6.0\Primer6.exe
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\bin\Debug\net6.0\Primer6.deps.json
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\bin\Debug\net6.0\Primer6.runtimeconfig.json
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\bin\Debug\net6.0\Primer6.dll
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\bin\Debug\net6.0\Primer6.pdb
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\Primer6.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\Primer6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\Primer6.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\Primer6.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\Primer6.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\Primer6.dll
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\refint\Primer6.dll
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\Primer6.pdb
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\Primer6.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\Учеба\Домашнее задание\Primer6\obj\Debug\net6.0\ref\Primer6.dll
