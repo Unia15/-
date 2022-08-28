@@ -24,7 +24,7 @@ void CreateArrayDouble(double[,] array)
   {
     for (int j = 0; j < n; j++)
     {
-      array[i, j] = new Random().NextDouble() * 20 - 10;
+      array[i, j] = new Random().NextDouble() * 10; 
     }
   }
 }
