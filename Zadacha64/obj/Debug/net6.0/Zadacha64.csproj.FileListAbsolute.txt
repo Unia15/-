@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\bin\Debug\net6.0\Zadacha64.exe
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\bin\Debug\net6.0\Zadacha64.deps.json
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\bin\Debug\net6.0\Zadacha64.runtimeconfig.json
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\bin\Debug\net6.0\Zadacha64.dll
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\bin\Debug\net6.0\Zadacha64.pdb
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\Zadacha64.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\Zadacha64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\Zadacha64.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\Zadacha64.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\Zadacha64.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\Zadacha64.dll
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\refint\Zadacha64.dll
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\Zadacha64.pdb
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\Zadacha64.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\Учеба\HomeWork1\Zadacha64\obj\Debug\net6.0\ref\Zadacha64.dll
